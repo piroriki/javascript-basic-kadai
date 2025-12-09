@@ -1,6 +1,6 @@
-const txtBtn = document.getElementById('btn');
+const btn = document.getElementById('btn');
 
-txtBtn.addEventListener('click',() =>{
+btn.addEventListener('click',() =>{
     const txt = document.getElementById('text');
 
     setTimeout(() =>{
